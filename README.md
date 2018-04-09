@@ -4,4 +4,4 @@
 * react 기반 pwa로 구현되며, github pages에서 서비스
   * https://sylee999.github.io/naver-english-conversation
 * 네이버 오늘의 회화 샘플 URL
-  * http://m.wordbook.naver.com/conversation#/endic/20180409 
+  * http://m.wordbook.naver.com/conversation#/endic/20180409 
